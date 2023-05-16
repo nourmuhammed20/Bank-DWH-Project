@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="DESKTOP-30AOUAQ.BankDB"
+  DTS:DTSID="{F0FF6B9D-670C-4996-913A-EAAA4678E184}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=DESKTOP-30AOUAQ;Initial Catalog=BankDB;Provider=SQLNCLI11.1;Integrated Security=SSPI;Application Name=SSIS-DW_PROJECT_VS-{F0FF6B9D-670C-4996-913A-EAAA4678E184}DESKTOP-30AOUAQ.BankDB;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
